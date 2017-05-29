@@ -9,5 +9,5 @@ and these Problems will be solved in my project. We are emphasizing on better en
 @ Duration :- 4 Months 
 @ Technologies Used :- Java, HTML5, CSS3, JavaScript, MySQL
 @ Framework :- Struts 2.x, Bootstrap and MVC IDEs :- Eclipse and SqlYog
-@ My Role :- Worked as a team leader, Performed coding using Java at backend and manages database in project.
-@ Project URL :- https://www.github.com/harvansh7/RKGEC_App/
+
+
